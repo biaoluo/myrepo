@@ -42,6 +42,8 @@ The following is the proper form of a namespace to refer to this schema:
 The ending version number will be changed as modifications are made to this
 schema.
 
+server line 3
+
 This Schema consists of 2 files. This one and a shared Schema defintion file that is
 provided/maintained by the W3C. This second file is referenced into this schema with
 the following:
