@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 
+
+local line 1
+
 $Workfile: acord-doc.xsd $
 
 $Author: Dan Vint $
@@ -15,6 +18,8 @@ COPYRIGHT NOTICE
 ________________
 
 (c) 2003 ACORD. All Rights Reserved.
+
+local line 2
 
 Use of this Schema is covered by the terms and conditions file that was included in 
 the distribution file that you found this file.
